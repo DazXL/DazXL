@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DazXL
-- 👀 I’m interested in learning all sorts of stuf
+- 👀 I’m interested in learning all sorts of stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on whatever I get interested
 - 📫 How to reach me: soon I will post a channel here
